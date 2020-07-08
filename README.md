@@ -12,7 +12,7 @@ User selection can be done:
 * Through its own group (option **-g**)
 * Through a regular expression that is verified with the users name (option **-u**)
 
-The period selection is made by specifying the start date of the session from which the sessions are to be considered (option **-s**) and the session start date from which sessions should not be considered (option **-e**)
+The period selection is made by specifying the start date of the session from which the sessions are to be considered (option **-s**) and the session start date from which sessions should not be considered (option **-e**).
 
 The display is sorted in ascending order of the username, but it can also appear sorted in other ways:
 * Descending order (option **-r**)
@@ -24,6 +24,13 @@ The display is sorted in ascending order of the username, but it can also appear
 Run **userstats.sh**
 ```console
 $ ./userstats.sh [insert options]
+```
+
+The **comparestats.sh** script compares 2 files that safeguard the output of the userstats.sh command and produces a preview of the changes.
+
+Run **comparestats.sh**
+```console
+$ ./comparestats.sh [insert file #1] [insert file #2]
 ```
 
 ## Authors
