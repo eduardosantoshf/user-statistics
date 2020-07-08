@@ -21,14 +21,14 @@ The display is sorted in ascending order of the username, but it can also appear
 * By maximum time (option **-a**)
 * By minimum time (option **-i**)
 
-Run **userstats.sh**
+Run **userstats.sh**:
 ```console
 $ ./userstats.sh [insert options]
 ```
 
 The **comparestats.sh** script compares 2 files that safeguard the output of the userstats.sh command and produces a preview of the changes.
 
-Run **comparestats.sh**
+Run **comparestats.sh**:
 ```console
 $ ./comparestats.sh [insert file #1] [insert file #2]
 ```
