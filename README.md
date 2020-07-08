@@ -23,14 +23,14 @@ The display is sorted in ascending order of the username, but it can also appear
 
 Run **userstats.sh**:
 ```console
-$ ./userstats.sh [insert options]
+$ ./userstats.sh [option(s)]
 ```
 
 The **comparestats.sh** script compares 2 files that safeguard the output of the userstats.sh command and produces a preview of the changes.
 
 Run **comparestats.sh**:
 ```console
-$ ./comparestats.sh [insert file #1] [insert file #2]
+$ ./comparestats.sh [file #1] [file #2]
 ```
 
 ## Authors
