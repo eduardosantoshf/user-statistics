@@ -34,5 +34,5 @@ $ ./comparestats.sh [file #1] [file #2]
 ```
 
 ## Authors
-* **Bruno Bastos** [BrunosBastos](https://github.com/BrunosBastos)
+* **Bruno Bastos**: [BrunosBastos](https://github.com/BrunosBastos)
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
