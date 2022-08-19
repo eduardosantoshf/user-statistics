@@ -1,4 +1,4 @@
-# FirstSOProject
+# First SO Project
 
 Using Bash scripts to see some stats about how users are using the operative system and display that on the terminal.
 
@@ -32,6 +32,9 @@ Run **comparestats.sh**:
 ```console
 $ ./comparestats.sh [file #1] [file #2]
 ```
+
+## Grade 
+This project's grade was **12** out of 20.
 
 ## Authors
 * **Bruno Bastos**: [BrunosBastos](https://github.com/BrunosBastos)
